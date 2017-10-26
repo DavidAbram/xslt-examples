@@ -1,0 +1,110 @@
+<prognoze>
+  <prognoza dohvacena="2006-10-02T12:45:23">
+    <lokacija>
+      <drzava iso="si">Slovenija</drzava>
+      <grad>Maribor</grad>
+    </lokacija>
+    <datum>
+      <dan>Ponedjeljak</dan>
+      <vrijeme>13:00:00</vrijeme>
+    </datum>
+    <temperatura jedinica="C">5</temperatura>
+    <opis>Kišno, poslijepodne razvedravanje.</opis>
+  </prognoza>
+  <prognoza dohvacena="2006-10-02T12:45:23">
+    <lokacija>
+      <drzava iso="si">Slovenija</drzava>
+      <grad>Maribor</grad>
+    </lokacija>
+    <datum>
+      <dan>Ponedjeljak</dan>
+      <vrijeme>14:00:00</vrijeme>
+    </datum>
+    <temperatura jedinica="C">5</temperatura>
+    <opis>Kišno, poslijepodne razvedravanje.</opis>
+  </prognoza>
+  <prognoza dohvacena="2006-10-02T12:45:23">
+    <lokacija>
+      <drzava iso="si">Slovenija</drzava>
+      <grad>Maribor</grad>
+    </lokacija>
+    <datum>
+      <dan>Ponedjeljak</dan>
+      <vrijeme>15:00:00</vrijeme>
+    </datum>
+    <temperatura jedinica="C">4</temperatura>
+    <opis>Kišno, poslijepodne razvedravanje.</opis>
+  </prognoza>
+  <prognoza dohvacena="2006-10-02T12:45:23">
+    <lokacija>
+      <drzava iso="hr">Hrvatska</drzava>
+      <grad>Split</grad>
+    </lokacija>
+    <datum>
+      <dan>Ponedjeljak</dan>
+      <vrijeme>13:00:00</vrijeme>
+    </datum>
+    <temperatura jedinica="C">16</temperatura>
+    <opis>Djelomično oblačno.</opis>
+  </prognoza>
+  <prognoza dohvacena="2006-10-02T12:45:23">
+    <lokacija>
+      <drzava iso="hr">Hrvatska</drzava>
+      <grad>Zagreb</grad>
+    </lokacija>
+    <datum>
+      <dan>Ponedjeljak</dan>
+      <vrijeme>14:00:00</vrijeme>
+    </datum>
+    <temperatura jedinica="C">17</temperatura>
+    <opis>Djelomično oblačno.</opis>
+  </prognoza>
+  <prognoza dohvacena="2006-10-02T12:45:23">
+    <lokacija>
+      <drzava iso="hr">Hrvatska</drzava>
+      <grad>Zagreb</grad>
+    </lokacija>
+    <datum>
+      <dan>Ponedjeljak</dan>
+      <vrijeme>15:00:00</vrijeme>
+    </datum>
+    <temperatura jedinica="C">15</temperatura>
+    <opis>Djelomično oblačno.</opis>
+  </prognoza>
+  <prognoza dohvacena="2006-10-02T12:45:23">
+    <lokacija>
+      <drzava iso="hr">Hrvatska</drzava>
+      <grad>Zagreb</grad>
+    </lokacija>
+    <datum>
+      <dan>Ponedjeljak</dan>
+      <vrijeme>13:00:00</vrijeme>
+    </datum>
+    <temperatura jedinica="C">9</temperatura>
+    <opis>Djelomično oblačno, sa mogućim padalinama.</opis>
+  </prognoza>
+  <prognoza dohvacena="2006-10-02T12:45:23">
+    <lokacija>
+      <drzava iso="hr">Hrvatska</drzava>
+      <grad>Zagreb</grad>
+    </lokacija>
+    <datum>
+      <dan>Ponedjeljak</dan>
+      <vrijeme>14:00:00</vrijeme>
+    </datum>
+    <temperatura jedinica="C">10</temperatura>
+    <opis>Djelomično oblačno, sa mogućim padalinama.</opis>
+  </prognoza>
+  <prognoza dohvacena="2006-10-02T12:45:23">
+    <lokacija>
+      <drzava iso="hr">Hrvatska</drzava>
+      <grad>Zagreb</grad>
+    </lokacija>
+    <datum>
+      <dan>Ponedjeljak</dan>
+      <vrijeme>15:00:00</vrijeme>
+    </datum>
+    <temperatura jedinica="C">8</temperatura>
+    <opis>Djelomično oblačno, sa mogućim padalinama.</opis>
+  </prognoza>
+</prognoze>
